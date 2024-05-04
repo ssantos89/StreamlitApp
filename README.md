@@ -25,3 +25,7 @@ Para realizar o deploy da sua aplicação, siga estes passos:
 6. Selecione `New app`, seguido de `Use existing repo` e `Authorize streamlit`.
 7. Preencha os campos para realizar o `Deploy`.
 8. Clique em `Deploy` e aguarde a instalação das bibliotecas do `requirements.txt`.
+
+## Link do Projeto em Deploy
+
+- [my-app-st](https://my-app-st.streamlit.app/).
